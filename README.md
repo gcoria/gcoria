@@ -18,10 +18,3 @@ Here are a few projects I'm proud to showcase:
   A project built in Go to explore data and fun facts about Pokémon.
 - **[R2-D2](https://github.com/gcoria/R2-D2)**  
   Inspired by the legendary droid, this project highlights my skills in Go along with creative problem-solving.
-
-
-## Connect With Me
-
-- **LinkedIn:** [Gaston Coria](https://www.linkedin.com/in/gaston-coria-3820b4b1)
-
----
