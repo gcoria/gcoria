@@ -9,9 +9,8 @@ I'm a software developer and tech enthusiast based in **Rio Cuarto**. I enjoy bu
 - 📫 **How to Reach Me:**  
   [Connect on LinkedIn](https://www.linkedin.com/in/gaston-coria-3820b4b1)
 
-## My Projects
+## Projects
 
-Here are a few projects I'm proud to showcase:
 - **[Minesweeper-API](https://github.com/gcoria/Minesweeper-API)**  
   A fun API that brings the classic Minesweeper game to your fingertips.
 - **[pokedex](https://github.com/gcoria/pokedex)**  
