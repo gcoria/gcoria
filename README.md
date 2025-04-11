@@ -1,9 +1,5 @@
 # Hi there, I'm Gaston! 👋
 
-I'm a software developer and tech enthusiast based in **Rio Cuarto**. I enjoy building creative projects, exploring new programming paradigms, and collaborating on open-source initiatives.
-
-## About Me
-
 - 🌱 **Learning:**  
   I'm continuously learning new technologies and deepening my expertise, particularly in **Ruby** and **Go**.
 - 📫 **How to Reach Me:**  
